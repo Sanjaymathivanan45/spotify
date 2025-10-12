@@ -1,0 +1,80 @@
+body{
+    background-image:url(WhatsApp\ Image\ 2025-10-12\ at\ 11.21.57_9653a9a1.jpg);
+    background-size:cover;
+}
+.header{
+    display:flex;
+    padding-left: 30px;
+    justify-content: center;
+    margin-top: 200px;
+}
+.header h1{
+    padding-left: 20px;
+    color: azure;
+}
+.sign{
+    display: flex;
+    padding-left: 620px;
+    color: azure;
+}
+.sign h2{
+    padding-left: 50px;
+}
+.sign hr{
+    background-color: rgb(36, 230, 36);
+    width: 130px;
+    height: 4px;
+    position: relative;
+    right: 500px;
+    margin-top: 50px;
+}
+.form{
+    padding-left: 700px;
+    align-items: center;
+    width: 100px;
+    padding-top: 20px;
+    justify-content: space-between;
+     color: azure;
+   
+}
+#f1{
+     border-radius: 50px;
+    padding: 15px;
+    border-style: none;
+    
+}
+#f2{
+    margin-top: 20px;
+    border-radius: 50px;
+    padding: 15px;
+    border-style: none;
+
+}
+.check{
+    display:flex;
+    text-align: center;
+    margin-left: 40px;
+   font-size: large;
+    color: azure;
+    
+}
+
+.foot{
+     padding-left: 720px;
+     padding-top: 20px;
+    margin-bottom: 30px;
+     color: azure;
+
+}
+.foot button{
+    border-radius: 50px;
+    padding: 15px;
+    border-style: none;
+    width: 160px;
+    background-color: rgb(36, 230, 36);
+    font-weight:bold;
+ 
+}
+.foot h3{
+    padding-left: 20px;
+}
